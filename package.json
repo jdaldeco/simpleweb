@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "simpleweb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel Ald",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
