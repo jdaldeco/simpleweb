@@ -20,7 +20,7 @@ spec:
               value: '50002'
           livenessProbe:
             httpGet:
-              path: /bad-health
+              path: /liveness
               port: 50002
             initialDelaySeconds: 10
             periodSeconds: 3
